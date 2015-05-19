@@ -13,4 +13,5 @@ script:
   - grunt travis
 
 before_install:
-  - npm install bower
+  - sudo npm install bower -g
+  
