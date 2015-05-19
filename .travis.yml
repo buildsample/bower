@@ -11,3 +11,6 @@ matrix:
 
 script:
   - grunt travis
+
+before_install:
+  - npm install bower
