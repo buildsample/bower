@@ -15,3 +15,5 @@ script:
 before_install:
   - sudo npm install bower -g
   
+
+archive: true
